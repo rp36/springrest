@@ -9,5 +9,6 @@ class SpringrestApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+System.out.println("we are trying");
 
 }
