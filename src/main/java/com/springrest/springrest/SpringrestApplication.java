@@ -10,6 +10,8 @@ public class SpringrestApplication {
 		SpringApplication.run(SpringrestApplication.class, args);
 	//	System.out.print("we are trying");
 		System.out.println("we are just trying");
+		System.out.println("we are just trying");
+
 	}
 
 }
