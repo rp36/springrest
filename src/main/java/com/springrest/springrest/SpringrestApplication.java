@@ -30,6 +30,8 @@ public class SpringrestApplication {
 		System.out.println("rten");
 	}
 	public  void rtwelve(String[] args) {
-		System.out.println("r12");
+		System.out.println("r12");}
+	public  void rtwelveA(String[] args) {
+		System.out.println("r12A");
 	}
 }
