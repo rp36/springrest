@@ -12,6 +12,8 @@ public class SpringrestApplication {
 		System.out.println("we are just trying");
 		System.out.println("we are just trying");
 
+        System.out.println("we are just trying");
+        System.out.println("we are just trying");
 	}
 
 	public  void bugfix(String[] args) {
