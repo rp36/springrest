@@ -25,4 +25,7 @@ public class SpringrestApplication {
 	public  void checkit1(String[] args) {
 		System.out.println("bug check it1");
 	}
+	public  void checkit2(String[] args) {
+		System.out.println("bug check it2");
+	}
 }
