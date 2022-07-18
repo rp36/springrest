@@ -26,4 +26,8 @@ public class SpringrestApplication {
 	public  void checkit3(String[] args) {
 		System.out.println("check3");
 	}
+
+	public  void fakeit(String[] args) {
+		System.out.println("fake");
+	}
 }
