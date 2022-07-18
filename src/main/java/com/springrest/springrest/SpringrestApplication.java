@@ -14,4 +14,7 @@ public class SpringrestApplication {
 
 	}
 
+	public  void bugfix(String[] args) {
+		System.out.println("bug fix");
+	}
 }
