@@ -30,4 +30,7 @@ public class SpringrestApplication {
 	public  void fakeit(String[] args) {
 		System.out.println("fake");
 	}
+	public  void releven(String[] args) {
+		System.out.println("r11");
+	}
 }
