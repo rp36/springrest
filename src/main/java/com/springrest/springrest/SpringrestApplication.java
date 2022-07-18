@@ -29,4 +29,7 @@ public class SpringrestApplication {
 	public  void rten(String[] args) {
 		System.out.println("rten");
 	}
+	public  void rtwelve(String[] args) {
+		System.out.println("r12");
+	}
 }
